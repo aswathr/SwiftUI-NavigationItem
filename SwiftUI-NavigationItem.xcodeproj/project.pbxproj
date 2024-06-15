@@ -11,6 +11,7 @@
 		D638DB292C1CA259002BB3DC /* FindNavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D638DB252C1CA259002BB3DC /* FindNavigationController.swift */; };
 		D638DB2A2C1CA259002BB3DC /* UIViewControllerExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = D638DB262C1CA259002BB3DC /* UIViewControllerExtensions.swift */; };
 		D638DB2B2C1CA259002BB3DC /* NavigationItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = D638DB272C1CA259002BB3DC /* NavigationItem.swift */; };
+		D638DB4A2C1DC8FC002BB3DC /* NavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D638DB492C1DC8FC002BB3DC /* NavigationController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +32,7 @@
 		D638DB252C1CA259002BB3DC /* FindNavigationController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FindNavigationController.swift; sourceTree = "<group>"; };
 		D638DB262C1CA259002BB3DC /* UIViewControllerExtensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIViewControllerExtensions.swift; sourceTree = "<group>"; };
 		D638DB272C1CA259002BB3DC /* NavigationItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NavigationItem.swift; sourceTree = "<group>"; };
+		D638DB492C1DC8FC002BB3DC /* NavigationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +77,7 @@
 				D638DB252C1CA259002BB3DC /* FindNavigationController.swift */,
 				D638DB262C1CA259002BB3DC /* UIViewControllerExtensions.swift */,
 				D638DB272C1CA259002BB3DC /* NavigationItem.swift */,
+				D638DB492C1DC8FC002BB3DC /* NavigationController.swift */,
 			);
 			path = NavigationItem;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			files = (
 				D638DB292C1CA259002BB3DC /* FindNavigationController.swift in Sources */,
 				D638DB2A2C1CA259002BB3DC /* UIViewControllerExtensions.swift in Sources */,
+				D638DB4A2C1DC8FC002BB3DC /* NavigationController.swift in Sources */,
 				D638DB2B2C1CA259002BB3DC /* NavigationItem.swift in Sources */,
 				D638DB282C1CA259002BB3DC /* Environment.swift in Sources */,
 			);
